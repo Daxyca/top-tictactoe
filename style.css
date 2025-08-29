@@ -16,11 +16,12 @@ html {
 }
 
 .game-button {
-    background-color: aquamarine;
+    background-color: crimson;
     font-size: 1rem;
     width: 2.5rem;
     height: 2.5rem;
     cursor: pointer;
     border-radius: 0.5rem;
     box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.3);
+    color: white
 }
